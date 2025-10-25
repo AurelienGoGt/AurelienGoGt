@@ -51,6 +51,7 @@ L’objectif est de démontrer mes compétences techniques et académiques dans 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profil-blue?logo=linkedin)](https://www.linkedin.com/in/aurélien-gorguet/)  
 [![GitHub](https://img.shields.io/badge/GitHub-Professionnel-black?logo=github)](https://github.com/AurelienGgt)  
+[![Jeu du Morpion](https://aureliengogt.github.io/Jeu-du-morpion/)  
 
 ---
 
