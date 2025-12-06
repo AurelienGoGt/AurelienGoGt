@@ -9,6 +9,19 @@ L’objectif est de démontrer mes compétences techniques et académiques dans 
 
 ---
 
+<h2 align="center"> 🎖️ Badges & Certifications</h2>
+
+<table align="center">
+<tr>
+<td align="center"><img src="https://pages.awseducate.com/rs/773-JYK-169/images/AWSEBadge.png" alt="AWS Educate" width="80" height="80" /></td>
+<td align="center"><img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support" width="80" height="80" /></td>
+<td align="center"><img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80" /></td>
+<td align="center"><img src="https://images.credly.com/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" alt="Astronomer Certification for Apache Airflow 3 Fundamentals" width="80" height="80" /></td>
+</tr>
+</table>
+
+---
+
 <h2 align="center"> 🧩 Objectifs : </h2>
 
 - 📊 **Analyser et visualiser** des données complexes (Data & BI)
