@@ -17,6 +17,7 @@ L’objectif est de démontrer mes compétences techniques et académiques dans 
 <td align="center"><img src="https://images.credly.com/size/340x340/images/fb97a12f-c0f1-4f37-9b7d-4a830199fe84/GCC_badge_IT_Support_1000x1000.png" alt="Google IT Support" width="80" height="80" /></td>
 <td align="center"><img src="https://images.credly.com/size/340x340/images/d41de2b7-cbc2-47ec-bcf1-ebecbe83872f/GCC_badge_DA_1000x1000.png" alt="Google Data Analytics" width="80" height="80" /></td>
 <td align="center"><img src="https://images.credly.com/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" alt="Astronomer Certification for Apache Airflow 3 Fundamentals" width="80" height="80" /></td>
+<td align="center"><img src="https://images.credly.com/size/110x110/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob" alt="Astronomer Certification DAG Authoring for Apache Airflow 3" width="80" height="80" /></td>
 </tr>
 </table>
 
