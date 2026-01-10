@@ -7,9 +7,15 @@ This portfolio centralizes my skills, learning path, and certifications relevant
 
 ---
 
-<h2 align="center"> 🎖️ Badges & Certifications </h2>
+<h2 align="center"> 🎖️ Certifications & Badges </h2>
 
-<!-- Add badges if you have them; otherwise can leave empty -->
+| Certification | Description | Official Link |
+|---------------|------------|---------------|
+| ![Azure](https://img.shields.io/badge/Azure-DP--900-blue?logo=microsoft-azure) | Understanding data, database concepts, and foundational BI principles | [View here](https://learn.microsoft.com/en-gb/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification) |
+| ![PowerBI](https://img.shields.io/badge/PowerBI-PL--300-yellow?logo=microsoft-power-bi) | Dashboards, KPIs, RLS, multi-source reporting | [View here](https://learn.microsoft.com/en-gb/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification) |
+| ![PowerPlatform](https://img.shields.io/badge/PowerPlatform-PL--200-purple?logo=microsoft-power-platform) | Automation, apps, and workflows with Power Platform | [View here](https://learn.microsoft.com/en-gb/credentials/certifications/exams/pl-200/) |
+| ![Security](https://img.shields.io/badge/Security-SC--300-red?logo=microsoft) | Access governance, security, and compliance | [View here](https://learn.microsoft.com/en-gb/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification) |
+
 
 ---
 
@@ -34,6 +40,7 @@ This portfolio centralizes my skills, learning path, and certifications relevant
 ---
 
 <h2 align="center"> 🎓 Certifications Roadmap </h2>
+
 
 ```mermaid
 gantt
