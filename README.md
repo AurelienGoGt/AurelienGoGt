@@ -9,32 +9,94 @@ This portfolio centralizes my skills, learning path, and certifications relevant
 
 <h2 align="center"> 🎖️ Certifications & Badges </h2>
 
-| Certification | Description | Official Link |
-|---------------|------------|---------------|
-| ![Azure](https://img.shields.io/badge/Azure-DP--900-blue?logo=microsoft-azure) | Understanding data, database concepts, and foundational BI principles | [View here](https://learn.microsoft.com/en-gb/credentials/certifications/azure-data-fundamentals/?practice-assessment-type=certification) |
-| ![PowerBI](https://img.shields.io/badge/PowerBI-PL--300-yellow?logo=microsoft-power-bi) | Dashboards, KPIs, RLS, multi-source reporting | [View here](https://learn.microsoft.com/en-gb/credentials/certifications/data-analyst-associate/?practice-assessment-type=certification) |
-| ![PowerPlatform](https://img.shields.io/badge/PowerPlatform-PL--200-purple?logo=microsoft-power-platform) | Automation, apps, and workflows with Power Platform | [View here](https://learn.microsoft.com/en-gb/credentials/certifications/exams/pl-200/) |
-| ![Security](https://img.shields.io/badge/Security-SC--300-red?logo=microsoft) | Access governance, security, and compliance | [View here](https://learn.microsoft.com/en-gb/credentials/certifications/security-compliance-and-identity-fundamentals/?practice-assessment-type=certification) |
+| Certification | Description| Tags  |Official Link |
+|---------------|------------|-------|--------------|
+
 
 
 ---
 
 <h2 align="center"> 🧩 Objectives </h2>
 
-- 📊 **Analyze and visualize data**
-- ⚙️ **Automate processes and workflows**
-- 🏗️ **Manage and structure CRM data efficiently**
+- 📊 <b>Analyze and visualize data</b> — from raw sources to decision-ready insights  
+- ⚙️ <b>Automate business and CRM processes</b> to reduce manual operations and errors  
+- 🏗️ <b>Design, structure, and govern CRM & analytics data</b> with scalability in mind  
 
 ---
 
-<h2 align="center"> 📂 Skills </h2>
+<h2 align="center"> 📂 Skills & Growth Path </h2>
 
-- **CRM Data Management**: user access management, data integrity, structured reporting  
-- **Power BI / Reporting**: dashboards, KPI tracking, Row-Level Security (RLS), multi-source data visualization  
-- **Data Fundamentals**: data modeling, database concepts, analytics fundamentals  
-- **Power Platform / Automation**: workflow optimization, automated reporting, integration with external tools  
-- **Identity & Access Management (IAM)**: CRM permissions, user roles, access governance  
-- **CRM Tools Administration**: Salesforce / HubSpot basics (projects in progress)
+<h3 align="center"> <b>Step 1 — Core CRM Operations</b> </h3>
+
+<h4 align="center">CRM Data Management</h4>
+<span>🟢 In practice</span>  
+
+- User access & permission management  
+- Data quality, integrity checks, structured CRM reporting  
+- Cross-team data usage alignment  
+
+<h4 align="center">CRM Tools Administration</h4>
+<span>🟡 Projects in progress</span>  
+
+- Salesforce administration fundamentals  
+- HubSpot administration basics  
+- Data structure, users, reporting, and automation use cases  
+
+---
+
+<h3 align="center"> <b>Step 2 — Data & BI Foundations</b> </h3>
+
+<h4 align="center">Power BI / Analytics & Reporting</h4>
+<span>🟢 In practice / 🟡 Expanding</span>  
+
+- Dashboard design & KPI modeling  
+- Multi-source data visualization  
+- Row-Level Security (RLS) and access-aware reporting  
+- Business-oriented data storytelling  
+
+<h4 align="center">Data Fundamentals & Modeling</h4>
+<span>🟡 In progress</span>  
+
+- Relational database concepts  
+- Data modeling (facts, dimensions, star schema)  
+- Analytics fundamentals (metrics, granularity, consistency)  
+
+<h4 align="center">SQL & Data Analysis</h4>
+<span>🟡 In progress</span>  
+
+- Complex joins, aggregations, subqueries  
+- CTE-based problem solving  
+- Applied through hands-on projects (e.g. SQL Murder Mystery)  
+
+---
+
+<h3 align="center"> <b>Step 3 — Automation & Integration</b> </h3>
+
+<h4 align="center">Power Platform / Automation</h4>
+<span>🟡 In progress</span>  
+
+- Workflow automation and reporting optimization  
+- Power Automate flows  
+- Integration between CRM, BI tools, and external systems  
+
+<h4 align="center">Identity & Access Management (IAM)</h4>
+<span>🟡 In progress</span>  
+
+- CRM permissions & role-based access control  
+- Access governance aligned with reporting and compliance needs  
+
+---
+
+<h3 align="center"> <b>Step 4 — Analytics Engineering Transition</b> </h3>
+
+<h4 align="center">Analytics Engineering</h4> 
+<span>🟡 Projects & learning phase</span>  
+
+- Analytics-ready data transformation concepts  
+- dbt fundamentals (testing, documentation, transformations)  
+- Bridging CRM data → analytics layer → BI consumption  
+
+
 
 
 ---
@@ -43,73 +105,63 @@ This portfolio centralizes my skills, learning path, and certifications relevant
 
 
 ```mermaid
+
 gantt
-    title Certification Roadmap (Target Achievement)
+    title CRM Analyst → Analytics Engineer | Certifications & Projects (Extended Roadmap)
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
     %% =========================
-    %% MICROSOFT – DATA & BI CORE
+    %% PHASE 1 — CORE DATA & BI
     %% =========================
-    section Microsoft – Data & BI (PRIORITY)
+    section Phase 1 – Data & BI Foundations (CONFIRMED)
 
-    DP-900 Azure Data Fundamentals [PRIORITY]      :2027-02-15, 1d
-    PL-300 Power BI Data Analyst [PRIORITY]        :2027-04-15, 1d
-    DP-203 Azure Data Engineer [LATER]             :2027-07-15, 1d
-    DP-600 Fabric Analytics Engineer [LATER]       :2027-10-15, 1d
-
-    %% =========================
-    %% MICROSOFT – POWER PLATFORM & AUTOMATION
-    %% =========================
-    section Microsoft – Automation & Platform
-
-    PL-200 Power Platform Consultant [PRIORITY]   :2027-06-15, 1d
-    PL-400 Power Platform Developer [LATER]       :2027-11-15, 1d
-    Power Automate Advanced [LATER]               :2027-02-15, 1d
+    DP-900 Azure Data Fundamentals [CERTIFICATION PRO]      :crit, 2026-12-15, 1d
+    PL-300 Power BI Data Analyst [CERTIFICATION PRO]        :crit, 2027-03-15, 1d
+    PL-200 Power Platform Consultant [CERTIFICATION PRO]   :crit, 2027-06-15, 1d
+    Salesforce Administrator [CERTIFICATION PRO]           :crit, 2027-09-15, 1d
 
     %% =========================
-    %% SECURITY, GOVERNANCE & IAM
+    %% PHASE 2 — PROJECTS
     %% =========================
-    section Security & Governance
+    section Phase 2 – Projects 
 
-    SC-300 Identity & Access Admin [PRIORITY]     :2027-09-15, 1d
-    ISO 27001 Foundation [LATER]                  :2027-06-15, 1d
-    GDPR / Data Protection Practitioner [LATER]   :2027-09-15, 1d
-
-    %% =========================
-    %% AI & INTELLIGENT CRM
-    %% =========================
-    section AI & Intelligent Systems
-
-    AI-900 Azure AI Fundamentals [LATER]          :2027-12-01, 1d
-    AI-102 Azure AI Engineer [LATER]              :2027-11-15, 1d
+    SQL Murder Mystery (Advanced SQL) [PROJECT]             :active, 2027-01-01, 1d
+    Advanced SQL & Data Modeling (Star/Snowflake) [PROJECT] :active, 2027-02-01, 1d
+    Analytics Engineering with dbt (Core Project) [PROJECT] :active, 2027-05-01, 1d
 
     %% =========================
-    %% CRM
+    %% PHASE 3 — DATA PLATFORM & SCALE
     %% =========================
-    section CRM Certifications
+    section Phase 3 – Data Platform & Scale (LIKELY)
 
-    Salesforce Administrator [PRIORITY]           :2026-12-15, 1d
-    Salesforce Platform App Builder [LATER]       :2027-03-15, 1d
-    HubSpot Advanced Admin [LATER]                :2027-05-15, 1d
-
-    %% =========================
-    %% ORACLE
-    %% =========================
-    section Oracle 
-
-    OCI Foundations Associate [LATER]             :2027-02-28, 1d
-    Oracle Data Platform Foundations [LATER]      :2027-03-15, 1d
-    OCI AI Foundations Associate [LATER]          :2027-04-01, 1d
-    Oracle Analytics / Reporting [LATER]          :2027-04-15, 1d
+    DP-203 Azure Data Engineer Associate [CERTIFICATION PRO]:2027-10-15, 1d
+    DP-600 Fabric Analytics Engineer [CERTIFICATION PRO]    :2028-02-15, 1d
 
     %% =========================
-    %% METHODOLOGY & PROCESS
+    %% PHASE 4 — CRM EXTENSIONS
     %% =========================
-    section Methodology & Process (LONG TERM)
+    section Phase 4 – CRM Extensions (OPTIONAL)
 
-    Agile / Scrum Foundation (PSM I) [LATER]      :2027-03-15, 1d
-    ITIL 4 Foundation [LATER]                     :2027-07-15, 1d
-    BPMN 2.0 Process Modeling [LATER]             :2027-10-15, 1d
+    Salesforce Platform App Builder [CERTIFICATION PRO]     :2027-12-15, 1d
+    HubSpot Advanced Admin [CERTIFICATION PRO]              :2028-03-15, 1d
+
+    %% =========================
+    %% PHASE 5 — ECOSYSTEM EXTENSIONS
+    %% =========================
+    section Phase 5 – Ecosystem Extensions (NOT DECIDED)
+
+    Oracle OCI Foundations Associate [CERTIFICATION PRO]    :2028-06-15, 1d
+    Oracle Data Platform Foundations [CERTIFICATION PRO]    :2028-08-15, 1d
+    Snowflake SnowPro Core [CERTIFICATION PRO]              :2028-10-15, 1d
+
+    %% =========================
+    %% PHASE 6 — GOVERNANCE & PROCESS
+    %% =========================
+    section Phase 6 – Governance & Process (LONG TERM)
+
+    SC-300 Identity & Access Admin [CERTIFICATION PRO]      :2028-12-15, 1d
+    Agile / Scrum Foundation (PSM I) [CERTIFICATION PRO]    :2029-03-15, 1d
+
 
 
