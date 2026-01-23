@@ -107,61 +107,61 @@ This portfolio centralizes my skills, learning path, and certifications relevant
 ```mermaid
 
 gantt
-    title CRM Analyst → Analytics Engineer | Certifications & Projects (Extended Roadmap)
+    title CRM Analyst → Analytics Engineer | Certifications & Projects (Lead Data Roadmap)
     dateFormat  YYYY-MM-DD
     axisFormat  %b %Y
 
     %% =========================
-    %% PHASE 1 — CORE DATA & BI
+    %% PHASE 1 — CORE DATA FOUNDATIONS
     %% =========================
-    section Phase 1 – Data & BI Foundations (CONFIRMED)
+    section Phase 1 – Core Data Foundations
 
-    DP-900 Azure Data Fundamentals [CERTIFICATION PRO]      :crit, 2026-12-15, 1d
-    PL-300 Power BI Data Analyst [CERTIFICATION PRO]        :crit, 2027-03-15, 1d
-    PL-200 Power Platform Consultant [CERTIFICATION PRO]   :crit, 2027-06-15, 1d
-    Salesforce Administrator [CERTIFICATION PRO]           :crit, 2027-09-15, 1d
+    SQL Foundations & Practice (Hands-on) [SKILL]          :crit, 2026-09-01, 1d
+    DP-900 Azure Data Fundamentals [CERTIFICATION PRO]     :crit, 2026-12-15, 1d
 
     %% =========================
-    %% PHASE 2 — PROJECTS
+    %% PHASE 2 — ANALYTICS ENGINEERING CORE
     %% =========================
-    section Phase 2 – Projects 
+    section Phase 2 – Analytics Engineering Core 
 
-    SQL Murder Mystery (Advanced SQL) [PROJECT]             :active, 2027-01-01, 1d
-    Advanced SQL & Data Modeling (Star/Snowflake) [PROJECT] :active, 2027-02-01, 1d
-    Analytics Engineering with dbt (Core Project) [PROJECT] :active, 2027-05-01, 1d
+    SQL Murder Mystery (Advanced SQL) [PROJECT]            :active, 2027-01-01, 1d
+    Advanced SQL & Data Modeling (Star/Snowflake) [PROJECT]:active, 2027-02-01, 1d
+    Analytics Engineering with dbt (Core Project) [PROJECT]:active, 2027-05-01, 1d
+    PL-300 Power BI Data Analyst [CERTIFICATION PRO]       :crit, 2027-06-15, 1d
 
     %% =========================
     %% PHASE 3 — DATA PLATFORM & SCALE
     %% =========================
-    section Phase 3 – Data Platform & Scale (LIKELY)
+    section Phase 3 – Data Platform & Scale
 
-    DP-203 Azure Data Engineer Associate [CERTIFICATION PRO]:2027-10-15, 1d
-    DP-600 Fabric Analytics Engineer [CERTIFICATION PRO]    :2028-02-15, 1d
-
-    %% =========================
-    %% PHASE 4 — CRM EXTENSIONS
-    %% =========================
-    section Phase 4 – CRM Extensions (OPTIONAL)
-
-    Salesforce Platform App Builder [CERTIFICATION PRO]     :2027-12-15, 1d
-    HubSpot Advanced Admin [CERTIFICATION PRO]              :2028-03-15, 1d
+    Cloud Analytics Platform Project (ADF / Fabric) [PROJECT]:active, 2027-09-01, 1d
+    DP-203 Azure Data Engineer Associate [CERTIFICATION PRO]:crit, 2027-11-15, 1d
+    DP-600 Fabric Analytics Engineer [CERTIFICATION PRO]   :crit, 2028-02-15, 1d
 
     %% =========================
-    %% PHASE 5 — ECOSYSTEM EXTENSIONS
+    %% PHASE 4 — GOVERNANCE & SECURITY
     %% =========================
-    section Phase 5 – Ecosystem Extensions (NOT DECIDED)
+    section Phase 4 – Governance & Security 
 
-    Oracle OCI Foundations Associate [CERTIFICATION PRO]    :2028-06-15, 1d
-    Oracle Data Platform Foundations [CERTIFICATION PRO]    :2028-08-15, 1d
-    Snowflake SnowPro Core [CERTIFICATION PRO]              :2028-10-15, 1d
+    Data Governance & RLS Design [PROJECT]                 :active, 2028-05-01, 1d
+    SC-300 Identity & Access Admin [CERTIFICATION PRO]     :crit, 2028-06-15, 1d
 
     %% =========================
-    %% PHASE 6 — GOVERNANCE & PROCESS
+    %% PHASE 5 — CRM DOMAIN EXPERTISE
     %% =========================
-    section Phase 6 – Governance & Process (LONG TERM)
+    section Phase 5 – CRM Domain Expertise 
 
-    SC-300 Identity & Access Admin [CERTIFICATION PRO]      :2028-12-15, 1d
-    Agile / Scrum Foundation (PSM I) [CERTIFICATION PRO]    :2029-03-15, 1d
+    Salesforce Administrator [CERTIFICATION PRO]           :2027-09-15, 1d
+    Salesforce Platform App Builder [CERTIFICATION PRO]    :2028-09-15, 1d
+    HubSpot Advanced Admin [CERTIFICATION PRO]             :2028-12-15, 1d
 
+    %% =========================
+    %% PHASE 6 — BONUS / ECOSYSTEM
+    %% =========================
+    section Phase 6 – Bonus & Ecosystem 
+
+    Snowflake SnowPro Core [CERTIFICATION PRO]             :2029-03-15, 1d
+    Oracle Data / Analytics Foundations (1 max) [BONUS]    :2029-06-15, 1d
+    Agile / Scrum Foundation (PSM I) [BONUS]               :2029-09-15, 1d
 
 
