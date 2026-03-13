@@ -124,3 +124,8 @@ The following certifications support my specialization across analytics, automat
 </table>
 
 <hr/>
+
+<h2>🧠 Links : </h2>
+
+Website : https://aureliengogt.github.io/
+LinkedIn : https://www.linkedin.com/in/aurélien-gorguet/
