@@ -60,72 +60,68 @@ with a strong emphasis on governance, access control and long-term maintainabili
 
 <hr/>
 
-<h2>🎓 Certifications Roadmap</h2>
+## 🎓 Certifications Roadmap
 
-<p>
-The following certifications support my specialization across analytics, automation and security.
-</p>
+The following certifications support my specialization across analytics, automation, CRM systems, AI and security.
 
-<table>
-  <thead>
-    <tr>
-      <th>Certification</th>
-      <th>Focus Area</th>
-      <th>Link</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><strong>PL-900</strong> – Power Platform Fundamentals</td>
-      <td>Low-code platform overview</td>
-      <td><a href="https://learn.microsoft.com/certifications/pl-900/">Official page</a></td>
-    </tr>
-    <tr>
-      <td><strong>DP-900</strong> – Azure Data Fundamentals</td>
-      <td>Data concepts & workloads</td>
-      <td><a href="https://learn.microsoft.com/certifications/dp-900/">Official page</a></td>
-    </tr>
-    <tr>
-      <td><strong>AI-900</strong> – Azure AI Fundamentals</td>
-      <td>AI & ML concepts</td>
-      <td><a href="https://learn.microsoft.com/certifications/ai-900/">Official page</a></td>
-    </tr>
-    <tr>
-      <td><strong>PL-300</strong> – Power BI Data Analyst</td>
-      <td>Analytics & data visualization</td>
-      <td><a href="https://learn.microsoft.com/certifications/pl-300/">Official page</a></td>
-    </tr>
-    <tr>
-      <td><strong>PL-200</strong> – Power Platform Functional Consultant</td>
-      <td>Business solutions & automation</td>
-      <td><a href="https://learn.microsoft.com/certifications/pl-200/">Official page</a></td>
-    </tr>
-    <tr>
-      <td><strong>PL-400</strong> – Power Platform Developer</td>
-      <td>Pro-code extensions & APIs</td>
-      <td><a href="https://learn.microsoft.com/certifications/pl-400/">Official page</a></td>
-    </tr>
-    <tr>
-      <td><strong>PL-500</strong> – Power Automate RPA Developer</td>
-      <td>RPA & desktop automation</td>
-      <td><a href="https://learn.microsoft.com/certifications/pl-500/">Official page</a></td>
-    </tr>
-    <tr>
-      <td><strong>DP-600</strong> – Fabric Analytics Engineer</td>
-      <td>Modern analytics platforms</td>
-      <td><a href="https://learn.microsoft.com/certifications/dp-600/">Official page</a></td>
-    </tr>
-    <tr>
-      <td><strong>SC-300</strong> – Identity & Access Administrator</td>
-      <td>Security & identity governance</td>
-      <td><a href="https://learn.microsoft.com/certifications/sc-300/">Official page</a></td>
-    </tr>
-  </tbody>
-</table>
+---
 
-<hr/>
+### 📐 Foundations
+
+| Certification | Focus Area | Skills Learned |
+|---|---|---|
+| **[PL-900](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-fundamentals/)** – Power Platform Fundamentals | Low-code platform overview | Power Apps, Power Automate, Power BI, Power Virtual Agents — core concepts |
+| **[DP-900](https://learn.microsoft.com/en-us/credentials/certifications/azure-data-fundamentals/)** – Azure Data Fundamentals | Data concepts & workloads | Relational vs non-relational data, data analytics, Azure data services overview |
+| **[AI-901](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-fundamentals/)** – Azure AI Fundamentals *(replaces AI-900, retiring June 2026)* | AI & ML concepts | Machine learning, generative AI, Azure OpenAI Service, modern Azure AI services |
+
+---
+
+### 🤖 AI & Copilot
+
+| Certification | Focus Area | Skills Learned |
+|---|---|---|
+| **[AB-900](https://learn.microsoft.com/en-us/credentials/certifications/copilot-and-agent-administration-fundamentals/)** – Copilot & Agent Administration Fundamentals | M365 Copilot administration | Copilot licensing, security governance, data protection, agent lifecycle management, Microsoft Purview |
+| **[AB-730](https://learn.microsoft.com/en-us/credentials/certifications/ai-business-professional/)** – AI Business Professional | AI in business workflows | Generative AI usage, M365 Copilot, AI-assisted productivity, responsible AI — no coding required |
+
+---
+
+### 🔗 CRM & Business Systems
+
+| Certification | Focus Area | Skills Learned |
+|---|---|---|
+| **[Salesforce ADM-201](https://trailhead.salesforce.com/credentials/administrator)** – Certified Administrator | CRM administration & configuration | IAM, security model, data management, automation rules, reports & dashboards |
+| **[Salesforce BA](https://trailhead.salesforce.com/credentials/businessanalyst)** – Certified Business Analyst | CRM business analysis | Requirements gathering, user stories, process mapping, stakeholder management, UAT |
+
+---
+
+### 📊 Analytics & Business Intelligence
+
+| Certification | Focus Area | Skills Learned |
+|---|---|---|
+| **[PL-300](https://learn.microsoft.com/en-us/credentials/certifications/power-bi-data-analyst-associate/)** – Power BI Data Analyst | Analytics & data visualization | Data modeling, DAX, RLS, OLS, interactive dashboards, Power Query, report publishing |
+| **[DP-600](https://learn.microsoft.com/en-us/credentials/certifications/fabric-analytics-engineer-associate/)** – Fabric Analytics Engineer | Modern analytics platforms | Microsoft Fabric, Lakehouse, data pipelines, Spark, semantic models, end-to-end analytics |
+
+---
+
+### ⚙️ Automation & Low-Code Development
+
+| Certification | Focus Area | Skills Learned |
+|---|---|---|
+| **[PL-200](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-functional-consultant-associate/)** – Power Platform Functional Consultant | Business solutions & automation | Power Apps canvas & model-driven, Dataverse, Power Automate advanced flows, solution design |
+| **[PL-400](https://learn.microsoft.com/en-us/credentials/certifications/power-platform-developer-associate/)** – Power Platform Developer | Pro-code extensions & APIs | Custom connectors, PCF controls, Azure integration, API development, ALM, DevOps pipelines |
+
+---
+
+### 🔒 Security & Identity
+
+| Certification | Focus Area | Skills Learned |
+|---|---|---|
+| **[SC-300](https://learn.microsoft.com/en-us/credentials/certifications/identity-and-access-administrator/)** – Identity & Access Administrator | Security & identity governance | Azure AD, IAM, MFA, conditional access, privileged identity management, SSO, compliance |
+
+---
 
 <h2>🧠 Links : </h2>
 
 Website : https://aureliengogt.github.io/
+
 LinkedIn : https://www.linkedin.com/in/aurélien-gorguet/
