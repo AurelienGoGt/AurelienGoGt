@@ -15,7 +15,7 @@ with a growing focus on AI agent operations and modern analytics platforms.
 
 <p>
 I operate at the intersection of <strong>CRM administration</strong>, <strong>data analytics</strong>,
-<strong>identity & access governance</strong> and I am learning <strong>AI agent operations</strong>.
+<strong>identity & access governance</strong> and with an emerging specialization in <strong>AI agent operations</strong>.
 </p>
 
 <p>
