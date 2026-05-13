@@ -27,6 +27,36 @@ with a strong emphasis on governance, maintainability and long-term platform ind
 
 <hr/>
 
+
+<h2>🛠️ Tech Stack</h2>
+
+<table>
+  <tr>
+    <td><strong>🔗 CRM</strong></td>
+    <td>Salesforce · Custom CRM platforms</td>
+  </tr>
+  <tr>
+    <td><strong>📊 Analytics</strong></td>
+    <td>Power BI · DAX · Power Query · Microsoft Fabric</td>
+  </tr>
+  <tr>
+    <td><strong>⚙️ Automation</strong></td>
+    <td>Power Automate · Python</td>
+  </tr>
+  <tr>
+    <td><strong>🔐 Security</strong></td>
+    <td>Azure AD · RBAC · Microsoft Purview</td>
+  </tr>
+  <tr>
+    <td><strong>🤖 AI</strong></td>
+    <td>Agentforce · Microsoft Copilot · Azure OpenAI</td>
+  </tr>
+  <tr>
+    <td><strong>🗄️ Data</strong></td>
+    <td>SQL · Excel · MDM principles</td>
+  </tr>
+</table>
+
 <h2>🧩 Core Capabilities</h2>
 
 <h3>📊 Data & Analytics</h3>
