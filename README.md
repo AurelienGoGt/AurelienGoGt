@@ -103,10 +103,10 @@ Structured learning path across data integration, analytics, AI and security.
 
 <h3>✅ Acquired</h3>
 
-| Certification | Provider | Focus Area |
-|---|---|---|
-| **Apache Airflow 3 Fundamentals** | Astronomer | Workflow orchestration |
-| **Apache Airflow 3 DAG Authoring** | Astronomer | Pipeline development |
+| Badge | Certification | Provider | Focus Area |
+|---|---|---|---|
+| <img src="https://images.credly.com/size/340x340/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" width="100" height="100"> | **Apache Airflow 3 Fundamentals** 🏆| Astronomer | Apache Airflow - DAGs - Data Pipelines - Orchestration - Scheduling |
+| <img src="https://images.credly.com/size/340x340/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob" width="100" height="100"> | **Apache Airflow 3 DAG Authoring** 🏆| Astronomer | Airflow - DAG - DAG Authoring - ETL|
 
 <hr/>
 
