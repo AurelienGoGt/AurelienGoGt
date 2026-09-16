@@ -111,8 +111,15 @@ Structured learning path across data integration, analytics, AI and security.
 |---|---|---|---|
 | <img src="https://images.credly.com/size/340x340/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" width="100" height="100"> | **Apache Airflow 3 Fundamentals** 🏆| Astronomer | Apache Airflow - DAGs - Data Pipelines - Orchestration - Scheduling |
 | <img src="https://images.credly.com/size/340x340/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob" width="100" height="100"> | **Apache Airflow 3 DAG Authoring** 🏆| Astronomer | Airflow - DAG - DAG Authoring - ETL |
-| <img src="https://images.credly.com/size/340x340/images/31804797-2a20-4357-9db6-3c2d43e5c7cf/blob" width="100" height="100"> | **Postman API Fundamentals Student Expert** 🏆| Postman | REST APIs - HTTP Requests - Headers & Params - JSON Parsing - API Consumption |
-| <img src="https://images.credly.com/size/340x340/images/31804797-2a20-4357-9db6-3c2d43e5c7cf/blob" width="100" height="100"> | **Postman Certified API Tester** 🏆| Postman | API Testing - Test Automation - Environment Variables - Assertion Scripts |
+
+<hr/>
+
+<h3>🔌 Integration & APIs</h3>
+
+| Certification | Focus Area | Skills |
+|---|---|---|
+| **Postman API Fundamentals Student Expert** | REST APIs & Consumption | HTTP Requests, Headers & Params, JSON Parsing, API Consumption |
+| **Postman Certified API Tester** | API Testing & Automation | Test Automation, Environment Variables, Assertion Scripts |
 
 <hr/>
 
