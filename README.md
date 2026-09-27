@@ -107,10 +107,13 @@ Structured learning path across data integration, analytics, AI and security.
 
 <h3>✅ Acquired</h3>
 
-| Badge | Certification | Provider | Focus Area |
-|---|---|---|---|
-| <img src="https://images.credly.com/size/340x340/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob" width="100" height="100"> | **Apache Airflow 3 Fundamentals** 🏆| Astronomer | Apache Airflow - DAGs - Data Pipelines - Orchestration - Scheduling |
-| <img src="https://images.credly.com/size/340x340/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob" width="100" height="100"> | **Apache Airflow 3 DAG Authoring** 🏆| Astronomer | Airflow - DAG - DAG Authoring - ETL |
+### ✅ Acquired Certifications
+
+| Badge | Certification | Provider | Focus Area & Skills |
+| :---: | :--- | :---: | :--- |
+| [![AI Orchestration Fundamentals](https://images.credly.com/size/110x110/images/b6315b18-8762-40a7-a15b-b97a6dd9c12e/blob)](https://www.credly.com/badges/3ddffe90-dd8c-4543-b9b0-07d1f9616fb7/public_url) | **Astronomer Certified for AI Orchestration Fundamentals** 🏆 | Astronomer | AI Agents, Apache Airflow, Artificial Intelligence (AI), Data Security, Information Access, LLVM, Large Language Models (LLMs), Legal Case Management (LCM) |
+| [![DAG Authoring for Apache Airflow 3](https://images.credly.com/size/110x110/images/6e9570ae-239f-47b9-85ff-0946c3844088/blob)](https://www.credly.com/badges/957b0493-8e76-409c-a927-dbc4a4c97fad/public_url) | **Astronomer Certification DAG Authoring for Apache Airflow 3** 🏆 | Astronomer | Airflow, DAG, DAG Authoring, ETL |
+| [![Apache Airflow 3 Fundamentals](https://images.credly.com/size/110x110/images/9c136154-a1fe-46a9-8f5a-97eb8fe272a8/blob)](https://www.credly.com/badges/a5207281-35b8-421d-b05e-3d27b0e4ed2c/public_url) | **Astronomer Certification for Apache Airflow 3 Fundamentals** 🏆 | Astronomer | Apache Airflow, DAGs, Data Pipelines, Orchestration, Scheduling |
 
 <hr/>
 
