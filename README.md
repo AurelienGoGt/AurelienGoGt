@@ -1,4 +1,4 @@
-<h1 align="center">📊 Data Integration & Automation Portfolio</h1>
+<h1 align="center">📊 CRM Data analyst - Admin : Portfolio</h1>
 
 <p align="center">
 Hello! I'm Aurélien.<br/>
