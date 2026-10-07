@@ -14,7 +14,7 @@ with a strong focus on data quality, security and operational reliability.
 <h2>🧭 Professional Overview</h2>
 
 <p>
-I operate as a <strong>Data Integration & Analytics Specialist</strong> —
+I operate as a <strong>CRM Data analyst - Admin</strong> —
 building and maintaining data pipelines, governing access across BI and CRM platforms,
 and automating operational workflows.
 </p>
